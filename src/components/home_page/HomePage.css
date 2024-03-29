@@ -1,0 +1,18 @@
+/* HomePage.css */
+
+/* Styles for Carousel */
+.carousel {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+/* Styles for Our Services section */
+.container-fluid {
+  /* Light background color */
+  padding: 100px 0; /*padding added*/
+  margin-bottom: 50px;
+}
+
+h2.text-center {
+  color: #343a40; /* Dark text color */
+}

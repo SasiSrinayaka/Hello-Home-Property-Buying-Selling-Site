@@ -1,0 +1,212 @@
+{
+  "properties": [
+    {
+      "id": "prop1",
+      "type": "House",
+      "bedrooms": 3,
+      "price": 750000,
+      "tenure": "Freehold",
+      "description": "Tucked away in a tranquil enclave, this delightful four-bedroom residence seamlessly marries contemporary luxury with classic charm. The inviting ambiance is enhanced by the expansive open-plan living area, flooded with natural light to showcase its sophisticated design. The gourmet kitchen, adorned with high-end appliances and granite surfaces, beckons culinary enthusiasts to indulge in their passion. The generously-sized master suite is a private sanctuary, complete with a spa-like en-suite bathroom and ample wardrobe space. With three additional bedrooms providing flexibility for guests or a home office, this residence effortlessly accommodates various lifestyle needs. Step outside to a meticulously landscaped garden, creating an enchanting backdrop for social gatherings. Positioned with easy access to schools, parks, and shopping, this property epitomizes the perfect blend of style and convenience.",
+      "location": "Petts Wood, Orpington",
+      "postal code": "PR5 1LA",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2489.6744206617686!2d0.07950867687345958!3d51.39066161922436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8ab82cc8f3cb1%3A0xc746da03b0c6c716!2sPetts%20Wood%20Rd%2C%20Petts%20Wood%2C%20Orpington%2C%20UK!5e0!3m2!1sen!2slk!4v1703920845483!5m2!1sen!2slk",
+      "picture": "images/prop1pic1small.jpg",
+      "url": "properties/prop1.html",
+      "added": {
+        "month": "October",
+        "day": 12,
+        "year": 2022
+      },
+      "pictures": [
+        "/images/prop1/p11.png",
+        "/images/prop1/p12.png",
+        "/images/prop1/p13.png",
+        "/images/prop1/p14.png",
+        "/images/prop1/p15.png",
+        "/images/prop1/p16.png"
+      ]
+    },
+    {
+      "id": "prop2",
+      "type": "Flat",
+      "bedrooms": 2,
+      "price": 399995,
+      "tenure": "Freehold",
+      "description": "Set against a backdrop of peaceful surroundings, this captivating five-bedroom home seamlessly fuses modern aesthetics with timeless allure. The airy, open-concept living space bathes in natural light, highlighting its contemporary design. The gourmet kitchen, equipped with top-of-the-line appliances and sleek granite countertops, beckons culinary enthusiasts to explore their creativity. The expansive master suite offers a private oasis with a luxurious en-suite bathroom and ample closet space. Three additional bedrooms provide versatility for guest accommodations or a home office. Outside, a meticulously manicured backyard creates an inviting space for outdoor entertaining. Centrally located near schools, parks, and shopping, this property embodies the perfect harmony of comfort and accessibility.",
+      "location": "Crofton Road Orpington BR6,",
+      "postal code": "BR6 8HD",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2490.6140724237566!2d0.06955147687262565!3d51.37339112048395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8ab6ac2bdc8d1%3A0xb0dde3c09939f924!2sCrofton%20Rd%2C%20Orpington%20BR6%2C%20UK!5e0!3m2!1sen!2slk!4v1703920638856!5m2!1sen!2slk",
+      "picture": "images/prop2pic1small.jpg",
+      "url": "properties/prop2.html",
+      "added": {
+        "month": "September",
+        "day": 14,
+        "year": 2022
+      },
+      "pictures": [
+        "/images/prop2/p21.jpg",
+        "/images/prop2/p22.jpg",
+        "/images/prop2/p23.jpg",
+        "/images/prop2/p24.jpg",
+        "/images/prop2/p25.jpg",
+        "/images/prop2/p26.jpg"
+      ]
+    },
+    {
+      "id": "prop3",
+      "type": "Apartment",
+      "bedrooms": 1,
+      "price": 250000,
+      "tenure": "Leasehold",
+      "description": "A stylish one-bedroom apartment with a modern open-plan kitchen and living area. The property features large windows offering plenty of natural light. The bedroom is spacious, and the bathroom is fitted with contemporary fixtures. Conveniently located near public transportation and local amenities.",
+      "location": "High Street, Bromley",
+      "postal code": "AZ1 1LF",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.195649608365!2d-0.02028240734141828!3d51.527971236542605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761d444c42bcf5%3A0x85bffc5b6e2d05dd!2sBromley%20High%20St.%2C%20London%2C%20UK!5e0!3m2!1sen!2slk!4v1703920917458!5m2!1sen!2slk",
+      "picture": "images/prop3pic1small.jpg",
+      "url": "properties/prop3.html",
+      "added": {
+        "month": "November",
+        "day": 5,
+        "year": 2022
+      },
+      "pictures": [
+        "/images/prop3/p31.jpg",
+        "/images/prop3/p32.jpg",
+        "/images/prop3/p33.jpg",
+        "/images/prop3/p34.jpg",
+        "/images/prop3/p35.jpg",
+        "/images/prop3/p36.jpg"
+      ]
+    },
+    {
+      "id": "prop4",
+      "type": "House",
+      "bedrooms": 4,
+      "price": 980000,
+      "tenure": "Freehold",
+      "description": "Unveiling a hidden gem in a peaceful neighborhood, this enchanting six-bedroom residence seamlessly combines modern luxury with enduring charm. The open-concept living area bathed in natural light accentuates the home's contemporary flair. The well-appointed kitchen, boasting stainless steel appliances and granite countertops, beckons culinary exploration. The expansive master suite, a private sanctuary, features a spa-like en-suite bathroom and abundant closet space. Three additional bedrooms offer flexibility for guest quarters or a home office. The meticulously landscaped backyard becomes an outdoor haven for gatherings. Conveniently located near schools, parks, and shopping centers, this property defines the epitome of convenient and comfortable living.",
+      "location": "Oak Avenue, Chislehurst",
+      "postal code": "KA1 6RW",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2477.908686224361!2d-0.08403552311630805!3d51.60656170345408!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876004724f15555%3A0x434f9aa20588c9dc!2sChislehurst%20Homecare%20Partnership%20Limited!5e0!3m2!1sen!2slk!4v1703920971758!5m2!1sen!2slk",
+      "picture": "images/prop4pic1small.jpg",
+      "url": "properties/prop4.html",
+      "added": {
+        "month": "October",
+        "day": 20,
+        "year": 2022
+      },
+      "pictures": [
+        "/images/prop4/p41.jpg",
+        "/images/prop4/p42.jpg",
+        "/images/prop4/p43.jpg",
+        "/images/prop4/p44.jpg",
+        "/images/prop4/p45.jpg",
+        "/images/prop4/p46.jpg"
+      ]
+    },
+    {
+      "id": "prop5",
+      "type": "Maisonette",
+      "bedrooms": 3,
+      "price": 550000,
+      "tenure": "Leasehold",
+      "description": "Gracefully situated in a tranquil locale, this sophisticated two-bedroom retreat harmoniously blends modern amenities with timeless design. The open-concept living area, bathed in natural light, creates a welcoming ambiance. The stylish kitchen, adorned with state-of-the-art appliances and granite accents, beckons culinary creativity. The master suite, a serene haven, features a private en-suite bathroom and abundant storage. An additional bedroom offers flexibility for guests or a home office. Outside, a meticulously landscaped courtyard provides a peaceful oasis for outdoor gatherings. Ideally located near schools, parks, and shopping, this residence offers a perfect fusion of convenience and charm.",
+      "location": "Maple Lane, Sevenoaks",
+      "postal code": "I11 6RW",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2455.770279642588!2d0.3278140769029739!3d52.01106377378457!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d88a7cb05dc483%3A0xc9d8bed5d91f9163!2sMaple%20Lane!5e0!3m2!1sen!2slk!4v1703921014106!5m2!1sen!2slk",
+      "picture": "images/prop5pic1small.jpg",
+      "url": "properties/prop5.html",
+      "added": {
+        "month": "November",
+        "day": 10,
+        "year": 2022
+      },
+      "pictures": [
+        "/images/prop5/p51.jpg",
+        "/images/prop5/p52.jpg",
+        "/images/prop5/p53.jpg",
+        "/images/prop5/p54.jpg",
+        "/images/prop5/p55.jpg",
+        "/images/prop5/p56.jpg"
+      ]
+    },
+    {
+      "id": "prop6",
+      "type": "Townhouse",
+      "bedrooms": 3,
+      "price": 675000,
+      "tenure": "Freehold",
+      "description": "Perched in a serene neighborhood, this captivating three-bedroom residence seamlessly merges contemporary living with enduring elegance. The open-concept design floods the living space with natural light, showcasing its modern aesthetics. The well-appointed kitchen, adorned with stainless steel appliances and granite countertops, becomes the heart of the home. The expansive master suite, a private retreat, boasts a spa-like en-suite bathroom and ample closet space. Two additional bedrooms offer flexibility for guests or a dedicated home office. Outside, a meticulously landscaped backyard creates an inviting space for outdoor relaxation. Conveniently located near schools, parks, and shopping, this property defines the perfect synthesis of style and functionality.",
+      "location": "Primrose Close, Bexley",
+      "postal code": "L11 6RW",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3391.3436788437384!2d-82.4828055238934!3d31.788382233850953!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f06b5c1d9b92bf%3A0xd2da59e6bb772d3f!2sPrimrose%20Ln%2C%20Georgia%2031513%2C%20USA!5e0!3m2!1sen!2slk!4v1703921055749!5m2!1sen!2slk",
+      "picture": "images/prop6pic1small.jpg",
+      "url": "properties/prop6.html",
+      "added": {
+        "month": "December",
+        "day": 5,
+        "year": 2022
+      },
+      "pictures": [
+        "/images/prop6/p61.jpg",
+        "/images/prop6/p62.jpg",
+        "/images/prop6/p63.jpg",
+        "/images/prop6/p64.jpg",
+        "/images/prop6/p65.jpg",
+        "/images/prop6/p66.jpg"
+      ]
+    },
+    {
+      "id": "prop7",
+      "type": "Studio Apartment",
+      "bedrooms": 0,
+      "price": 180000,
+      "tenure": "Leasehold",
+      "description": "Discreetly nestled in a quiet neighborhood, this charming four-bedroom residence seamlessly combines contemporary comfort with timeless appeal. The open-concept living space bathed in natural light accentuates the home's modern design. The well-appointed kitchen, featuring high-end appliances and granite countertops, is a culinary haven. The luxurious master suite offers a private escape with a spa-like en-suite bathroom and spacious closets. Three additional bedrooms provide flexibility for guest accommodations or a home office. Outside, a meticulously landscaped yard sets the stage for outdoor gatherings. Centrally located near schools, parks, and shopping, this property epitomizes the perfect blend of convenience and sophistication.",
+      "location": "Elm Street, Sidcup",
+      "postal code": "Y11 6RW",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.801450549183!2d0.09840057687508261!3d51.42507381671382!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8ac040d14e589%3A0xd6ad6aa0ee14be74!2sElm%20Rd%2C%20Sidcup%2C%20UK!5e0!3m2!1sen!2slk!4v1703921103440!5m2!1sen!2slk",
+      "picture": "images/prop7pic1small.jpg",
+      "url": "properties/prop7.html",
+      "added": {
+        "month": "December",
+        "day": 15,
+        "year": 2022
+      },
+      "pictures": [
+        "/images/prop7/p71.jpg",
+        "/images/prop7/p72.jpg",
+        "/images/prop7/p73.jpg",
+        "/images/prop7/p74.jpg",
+        "/images/prop7/p75.jpg",
+        "/images/prop7/p76.jpg"
+      ]
+    },
+    {
+      "id": "prop8",
+      "type": "Flat",
+      "bedrooms": 2,
+      "price": 420000,
+      "tenure": "Leasehold",
+      "description": "Gracing a peaceful community, this captivating five-bedroom home effortlessly marries contemporary style with timeless allure. The open-concept living space, bathed in natural light, showcases the home's modern design. The gourmet kitchen, adorned with top-of-the-line appliances and granite countertops, beckons culinary exploration. The expansive master suite is a private retreat with a luxurious en-suite bathroom and abundant closet space. Three additional bedrooms offer versatility for guest accommodations or a home office. Outside, a meticulously landscaped backyard creates an enchanting space for outdoor gatherings. Ideally situated near schools, parks, and shopping centers, this residence embodies the perfect fusion of comfort and convenience.",
+      "location": "Riverside Drive, Dartford",
+      "postal code": "M21 6RW",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2486.383180640705!2d0.216682276876303!3d51.45112081481297!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8b1962a4590b5%3A0x32ad0b63066e48f2!2sRiverside%20Way%2C%20Dartford%2C%20UK!5e0!3m2!1sen!2slk!4v1703921143378!5m2!1sen!2slk",
+      "picture": "images/prop8pic1small.jpg",
+      "url": "properties/prop8.html",
+      "added": {
+        "month": "January",
+        "day": 8,
+        "year": 2023
+      },
+      "pictures": [
+        "/images/prop8/p81.jpg",
+        "/images/prop8/p82.jpg",
+        "/images/prop8/p83.jpg",
+        "/images/prop8/p84.jpg",
+        "/images/prop8/p85.jpg",
+        "/images/prop8/p86.jpg"
+      ]
+    }
+  ]
+}
